@@ -1,4 +1,4 @@
-# scraper4wako
+# WakoScrapers
 
 This project was created to convert and maintain Syncler's community scrapers for wako/Helios users. This is for private convenience and is not meant for the broader public.
 
