@@ -16,6 +16,6 @@ OpenScrapers:
 https://raw.githubusercontent.com/morpheasgr/scraper4wako/main/openscraper.txt
 
 Syncler.ml ULTRA:
-https://raw.githubusercontent.com/morpheasgr/scraper4wako/main/ultra.txt
+https://github.com/reaperc/WakoScrapers/blob/main/ultra.txt
 
 Have fun!
