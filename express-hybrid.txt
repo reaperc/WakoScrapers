@@ -177,8 +177,9 @@
     ],
     "base_url": "https://yts.mx",
     "fallback_urls": [
-      "https://yts.pm",
-      "https://yts.unblocked.lat"
+      "https://yts.lt",
+      "https://yts.am",
+      "https://yts.ag"
     ],
     "response_type": "json",
     "movie": {
