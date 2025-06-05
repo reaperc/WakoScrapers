@@ -1,0 +1,155 @@
+{
+  "_manifest": {
+    "hero_": [
+      "░█▀▄▀█─█▀▀█─█▀▀▀─█▀▀▄─▀█▀─█▀▀─█──█",
+      "░█─█─█─█▀▀█─█─▀█─█──█──█──█▀▀─█▄▄█",
+      "░█───█─▀──▀─▀▀▀▀─▀──▀─▀▀▀─▀───▄▄▄█",
+      "_u/h53h54h55 pretend package developer banned on r/Providers4Syncler, STOP STEALING THIS CODE, and learn to write your own instead of copy/paste."
+    ],
+    "name": "Magnify Scrapers Turbo",
+    "id": "magnify.pages.dev",
+    "permaUrl": "https://magnify.pages.dev/scrapers",
+    "version": 2
+  },
+  "torrentio_enhanced": {
+    "name": "Torrentio++",
+    "type_": "public server",
+    "base_url": "https://magnify.pages.dev/scraper/torrentio",
+    "response_type": "json",
+    "movie": {
+      "query": "/qualityfilter=none|providers=1337x,bitsearch,extratorrent,kickasstorrents|sort=seedsize/stream/movie/{query}.json",
+      "keywords": "{imdbId}"
+    },
+    "episode": {
+      "query": "/providers=1337x,bitsearch,extratorrent,kickasstorrents|sort=seedsize/stream/series/{query}:{season}:{episode}.json",
+      "keywords": "{showImdbId}"
+    },
+    "anime": {
+      "query": "/providers=animetosho,nyaa|sort=seedsize/stream/anime/{query}:{season}:{episode}.json",
+      "keywords": "{showImdbId}"
+    },
+    "json_format": {
+      "results": "streams",
+      "title": "title",
+      "size": "size",
+      "seeds": "seeders",
+      "hash": "infoHash"
+    }
+  },
+  "torrentio": {
+    "name": "Torrentio",
+    "type_": "public server",
+    "base_url": "https://magnify.pages.dev/scraper/torrentio",
+    "response_type": "json",
+    "movie": {
+      "query": "/qualityfilter=scr,cam|sort=qualitysize/stream/movie/{query}.json",
+      "keywords": "{imdbId}"
+    },
+    "episode": {
+      "query": "/sort=qualitysize/stream/series/{query}:{season}:{episode}.json",
+      "keywords": "{showImdbId}"
+    },
+    "anime": {
+      "query": "/sort=qualitysize/stream/anime/{query}:{season}:{episode}.json",
+      "keywords": "{showImdbId}"
+    },
+    "json_format": {
+      "results": "streams",
+      "title": "title",
+      "hash": "infoHash"
+    }
+  },
+  "comet": {
+    "name": "Comet+",
+    "type_": "public server",
+    "base_url": "https://magnify.pages.dev/scraper/comet",
+    "response_type": "json",
+    "movie": {
+      "query": "/providers=all|sort=seeders/stream/movie/{query}.json",
+      "keywords": "{imdbId}"
+    },
+    "episode": {
+      "query": "/providers=all|sort=seeders/stream/series/{query}:{season}:{episode}.json",
+      "keywords": "{showImdbId}"
+    },
+    "json_format": {
+      "results": "streams",
+      "title": "description",
+      "size": "behaviorHints.videoSize",
+      "seeds": "seeders",
+      "hash": "infoHash"
+    }
+  },
+  "mediafusion_boost": {
+    "name": "MediaFusion XL",
+    "type_": "public server",
+    "base_url": "https://magnify.pages.dev/scraper/mediafusion",
+    "response_type": "json",
+    "movie": {
+      "query": "/limit=100/stream/movie/{query}.json",
+      "keywords": "{imdbId}"
+    },
+    "episode": {
+      "query": "/limit=100/stream/series/{query}:{season}:{episode}.json",
+      "keywords": "{showImdbId}"
+    },
+    "json_format": {
+      "results": "streams",
+      "title": "description",
+      "size": "size",
+      "seeds": "seeders",
+      "hash": "infoHash"
+    }
+  },
+  "torrents_csv_enhanced": {
+    "name": "TorrentsCSV Pro",
+    "type_": "public server",
+    "base_url": "https://magnify.pages.dev/scraper/torrents-csv",
+    "response_type": "json",
+    "movie": {
+      "query": "/search?q={query}&size=250",
+      "keywords": "{title} {year}"
+    },
+    "episode": {
+      "query": "/search?q={query}&size=250",
+      "keywords": "{title} S{season}E{episode}"
+    },
+    "season": {
+      "query": "/search?q={query}&size=250",
+      "keywords": [
+        "{title} Season {season}",
+        "{title} S{season}"
+      ]
+    },
+    "json_format": {
+      "results": "torrents",
+      "title": "name",
+      "size": "size_bytes",
+      "seeds": "seeders",
+      "peers": "leechers",
+      "hash": "infohash"
+    }
+  },
+  "bitmagnet_x3": {
+    "name": "BitMagnet Ultra",
+    "type_": "home server",
+    "base_url": "https://magnify.pages.dev/scraper/bitmagnet",
+    "response_type": "text",
+    "movie": {
+      "query": "/?t=search&q={query}&cat=all&limit=150",
+      "keywords": "{imdbId}"
+    },
+    "episode": {
+      "query": "/?t=search&q={query}&cat=all&limit=150",
+      "keywords": "{showImdbId} S{season}E{episode}"
+    },
+    "html_parser": {
+      "row": "doc.querySelectorAll('item')",
+      "title": "row.querySelector('title').textContent",
+      "size": "row.querySelector('size').textContent",
+      "seeds": "row.querySelector('[name=\"seeders\"]').getAttribute('value')",
+      "peers": "row.querySelector('[name=\"peers\"]').getAttribute('value')",
+      "url": "row.querySelector('[name=\"magneturl\"]').getAttribute('value')"
+    }
+  }
+}
