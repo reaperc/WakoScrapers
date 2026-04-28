@@ -137,7 +137,7 @@ https://nl.utako.moe/sport_live_plus/index.m3u8
 https://nl.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 tvg-id="channel_ginga" tvg-name="Channel Ginga" tvg-logo="https://www.icn-catv.jp/images/channel_logo/CS/CS_ginga.png",Channel Ginga
 https://nl.utako.moe/gingach/index.m3u8
-#EXTINF:-1 tvg-id="tabi_channel" tvg-name="Tabi Channel" tvg-logo="https://dmcoup0s63tbi.cloudfront.net/control-panel/wp-content/uploads/2021/04/30172855/%E6%97%85%E3%83%AD%E3%82%B4TM.jpg",Tabi Channel
+#EXTINF:-1 tvg-id="tabi_channel" tvg-name="Tabi Channel" tvg-logo="https://images.seeklogo.com/logo-png/47/1/tabi-channel-logo-png_seeklogo-478180.png",Tabi Channel
 https://nl.utako.moe/tabi/index.m3u8
 #EXTINF:-1 tvg-id="pigoo" tvg-name="Pigoo" tvg-logo="https://baseec-img-mng.akamaized.net/images/user/logo/dde8cbaba8f25c311920bd2e0e13afd6.png",Pigoo
 https://nl.utako.moe/pigoo/index.m3u8
