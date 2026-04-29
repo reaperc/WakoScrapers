@@ -115,11 +115,11 @@ https://nl.utako.moe/musicon/index.m3u8
 https://nl.utako.moe/golf_network/index.m3u8
 #EXTINF:-1 tvg-id="the_cinema" tvg-name="The Cinema" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/252.png",The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
-#EXTINF:-1 tvg-id="ActionChannel.jp" tvg-name="Action Channel (AXN)" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=AXN_logo_2015.svg&w=200",Action Channel (AXN)
+#EXTINF:-1 tvg-id="ActionChannel.jp" tvg-name="Action Channel (AXN)" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/452.png",Action Channel (AXN)
 http://arva.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="MysteryChannel.jp" tvg-name="Mystery Channel" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Mystery_Channel_logo.svg&w=200",Mystery Channel
+#EXTINF:-1 tvg-id="MysteryChannel.jp" tvg-name="Mystery Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/455.png",Mystery Channel
 http://arva.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="SuperDramaTV.jp" tvg-name="Super Drama TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Super%21_drama_TV_logo.svg&w=200",Super Drama TV
+#EXTINF:-1 tvg-id="SuperDramaTV.jp" tvg-name="Super Drama TV" tvg-logo="https://i.imgur.com/hsk8NHc.png",Super Drama TV
 http://arva.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="tbs_channel_1" tvg-name="TBS Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS Channel 1
 https://nl.utako.moe/tbsch1/index.m3u8
@@ -145,9 +145,9 @@ https://nl.utako.moe/toei/index.m3u8
 https://nl.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 tvg-id="entermei_tele" tvg-name="Entermei Tele" tvg-logo="https://i.imgur.com/t3jg6ZG.png",Entermei Tele
 https://nl.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 tvg-id="DanceChannel.jp" tvg-name="Dance Channel" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Entermeitele_logo.svg&w=200",Dance Channel
+#EXTINF:-1 tvg-id="DanceChannel.jp" tvg-name="Dance Channel" tvg-logo="https://www.dance-ch.jp/image/contact/image01.png",Dance Channel
 http://arva.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="EntermeiTele.jp" tvg-name="Me-Tele NEXT" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Nagoya_Broadcasting_Network_logo.svg&w=200",Me-Tele NEXT
+#EXTINF:-1 tvg-id="EntermeiTele.jp" tvg-name="Me-Tele NEXT" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/559.png",Me-Tele NEXT
 http://arva.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="sports_live_plus" tvg-name="Sport Live Plus" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/753.jpg",Sport Live Plus
 https://nl.utako.moe/sport_live_plus/index.m3u8
@@ -157,13 +157,13 @@ https://nl.utako.moe/homedrama/index.m3u8
 https://nl.utako.moe/gingach/index.m3u8
 #EXTINF:-1 tvg-id="tabi_channel" tvg-name="Tabi Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/830.png",Tabi Channel
 https://nl.utako.moe/tabi/index.m3u8
-#EXTINF:-1 tvg-id="TetsudoChannel.jp" tvg-name="Tetsudo Channel" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Tetsudo_Channel_logo.svg&w=200",Tetsudo Channel
+#EXTINF:-1 tvg-id="TetsudoChannel.jp" tvg-name="Tetsudo Channel" tvg-logo="https://prcdn.freetls.fastly.net/release_image/20447/11/20447-11-b34a485c3d5a2ac9c6b55ff3fafe2cd8-587x587.png",Tetsudo Channel
 http://arva.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="IgoShogiChannel.jp" tvg-name="Shogi Channel" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Igo_Shogi_Channel_logo.svg&w=200",Shogi Channel
+#EXTINF:-1 tvg-id="IgoShogiChannel.jp" tvg-name="Shogi Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/832.png",Shogi Channel
 http://arva.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="KBSWorldJapan.jp" tvg-name="KBS World" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=KBS_World_Logo.svg&w=200",KBS World
+#EXTINF:-1 tvg-id="KBSWorldJapan.jp" tvg-name="KBS World" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/552.png",KBS World
 http://arva.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="KNTV.jp" tvg-name="KNTV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=KNTV_logo.svg&w=200",KNTV
+#EXTINF:-1 tvg-id="KNTV.jp" tvg-name="KNTV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/570.png",KNTV
 http://arva.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="MnetJapan.jp" tvg-name="Mnet" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Mnet_logo.svg&w=200",Mnet
 http://arva.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
