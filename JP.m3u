@@ -145,10 +145,6 @@ https://nl.utako.moe/toei/index.m3u8
 https://nl.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 tvg-id="EntermeiTele.jp" tvg-name="Entermei Tele" tvg-logo="https://i.imgur.com/t3jg6ZG.png",Entermei Tele
 https://nl.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 tvg-id="DanceChannel.jp" tvg-name="Dance Channel" tvg-logo="https://www.dance-ch.jp/image/contact/image01.png",Dance Channel
-http://arva.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-id="EntermeiTele.jp" tvg-name="Me-Tele NEXT" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/559.png",Me-Tele NEXT
-http://arva.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="sports_live_plus" tvg-name="Sport Live Plus" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/753.jpg",Sport Live Plus
 https://nl.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 tvg-id="home_drama" tvg-name="Home Drama Channel" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/460.jpg",Home Drama Channel
