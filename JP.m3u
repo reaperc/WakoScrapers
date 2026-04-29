@@ -74,7 +74,7 @@ https://nl.utako.moe/js4/index.m3u8
 #EXTINF:-1 tvg-id="green_channel" tvg-name="Green Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/770.png",Green Channel
 https://nl.utako.moe/green/index.m3u8
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax
-http://arva.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+https://nl.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-id="nihon_eiga" tvg-name="Nihon Eiga Senmon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/PRPIC-20230705124343.%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB%E5%B0%82%E9%96%80%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%AD%E3%82%B4.jpg",Nihon Eiga Senmon
 https://nl.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 tvg-id="sky_a" tvg-name="Sky A" tvg-logo="https://pbs.twimg.com/profile_images/1503557885812690944/BNKFQ5m9_400x400.jpg",Sky A
