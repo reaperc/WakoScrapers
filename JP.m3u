@@ -143,7 +143,7 @@ https://nl.utako.moe/dlife/index.m3u8
 https://nl.utako.moe/toei/index.m3u8
 #EXTINF:-1 tvg-id="fighting_tv" tvg-name="Fighting TV Samurai" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/761.png",Fighting TV Samurai
 https://nl.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 tvg-id="entermei_tele" tvg-name="Entermei Tele" tvg-logo="https://i.imgur.com/t3jg6ZG.png",Entermei Tele
+#EXTINF:-1 tvg-id="EntermeiTele.jp" tvg-name="Entermei Tele" tvg-logo="https://i.imgur.com/t3jg6ZG.png",Entermei Tele
 https://nl.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 tvg-id="DanceChannel.jp" tvg-name="Dance Channel" tvg-logo="https://www.dance-ch.jp/image/contact/image01.png",Dance Channel
 http://arva.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
