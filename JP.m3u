@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-
-
+#EXTM3U url-tvg="https://epg.utako.moe/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 tvg-id="nhk_g_tokyo" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-id="nhk_e_tokyo" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
@@ -45,18 +43,14 @@ https://nl.utako.moe/bsasahi/index.m3u8
 https://nl.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 tvg-id="bs_tv_tokyo" tvg-name="BS TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/250px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
 https://nl.utako.moe/bstvtokyo/index.m3u8
-
 #EXTINF:-1 tvg-id="BSTVTokyo4K.jp" tvg-name="BS TV Tokyo 4K" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=BS_TV_Tokyo_%28Japanese%29_2023.svg&w=200",BS TV Tokyo 4K
 http://arva.netgenx.site/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="bs_fuji" tvg-name="BS Fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/250px-BSFuji2008Symbol.svg.png",BS Fuji
 https://nl.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 tvg-id="bs11" tvg-name="BS11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/250px-BS11_logo.svg.png",BS11
 https://nl.utako.moe/BS11/index.m3u8
-
 #EXTINF:-1 tvg-id="BS12.jp" tvg-name="BS 12" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=BS12_Twellv_logo.svg&w=200",BS 12
 http://arva.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="nhk_bsp4k" tvg-name="NHK BS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
 https://nl.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-id="wowow_prime" tvg-name="WOWOW Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Prime
@@ -65,10 +59,8 @@ https://nl.utako.moe/wprime/index.m3u8
 https://nl.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 tvg-id="wowow_live" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
 https://nl.utako.moe/wlive/index.m3u8
-
 #EXTINF:-1 tvg-id="WOWOWPlus.jp" tvg-name="WOWOW Plus" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=WOWOW_logo.svg&w=200",WOWOW Plus
 http://arva.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="bs10_star_channel" tvg-name="BS 10 Premium" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium
 https://nl.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 tvg-id="js1" tvg-name="JSport 1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
@@ -109,13 +101,10 @@ https://nl.utako.moe/kids_station/index.m3u8
 https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="ntv_g_tasu" tvg-name="Nittele G+" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/752.png",Nittele G+
 https://nl.utako.moe/ntvgplus/index.m3u8
-
 #EXTINF:-1 tvg-id="NittelePlus.jp" tvg-name="Nittele Plus" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Nippon_TV_logo_2014.svg&w=200",Nittele Plus
 http://arva.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="NTVNEWS24.jp" tvg-name="NTV News24" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Nippon_TV_logo_2014.svg&w=200",NTV News24
 http://arva.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="family_gekijo" tvg-name="Family Gekijyo" tvg-logo="https://i.imgur.com/PCx6Qz3.png",Family Gekijyo
 https://nl.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 tvg-id="mondo_tv" tvg-name="Mondo TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/554.png",Mondo TV
@@ -126,16 +115,12 @@ https://nl.utako.moe/musicon/index.m3u8
 https://nl.utako.moe/golf_network/index.m3u8
 #EXTINF:-1 tvg-id="the_cinema" tvg-name="The Cinema" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/252.png",The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
-
 #EXTINF:-1 tvg-id="ActionChannel.jp" tvg-name="Action Channel (AXN)" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=AXN_logo_2015.svg&w=200",Action Channel (AXN)
 http://arva.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="MysteryChannel.jp" tvg-name="Mystery Channel" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Mystery_Channel_logo.svg&w=200",Mystery Channel
 http://arva.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="SuperDramaTV.jp" tvg-name="Super Drama TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Super%21_drama_TV_logo.svg&w=200",Super Drama TV
 http://arva.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="tbs_channel_1" tvg-name="TBS Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS Channel 1
 https://nl.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 tvg-id="tbs_channel_2" tvg-name="TBS Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS Channel 2
@@ -160,13 +145,10 @@ https://nl.utako.moe/toei/index.m3u8
 https://nl.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 tvg-id="entermei_tele" tvg-name="Entermei Tele" tvg-logo="https://i.imgur.com/t3jg6ZG.png",Entermei Tele
 https://nl.utako.moe/entermei_tele/index.m3u8
-
 #EXTINF:-1 tvg-id="DanceChannel.jp" tvg-name="Dance Channel" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Entermeitele_logo.svg&w=200",Dance Channel
 http://arva.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="EntermeiTele.jp" tvg-name="Me-Tele NEXT" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Nagoya_Broadcasting_Network_logo.svg&w=200",Me-Tele NEXT
 http://arva.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="sports_live_plus" tvg-name="Sport Live Plus" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/753.jpg",Sport Live Plus
 https://nl.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 tvg-id="home_drama" tvg-name="Home Drama Channel" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/460.jpg",Home Drama Channel
@@ -175,22 +157,16 @@ https://nl.utako.moe/homedrama/index.m3u8
 https://nl.utako.moe/gingach/index.m3u8
 #EXTINF:-1 tvg-id="tabi_channel" tvg-name="Tabi Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/830.png",Tabi Channel
 https://nl.utako.moe/tabi/index.m3u8
-
 #EXTINF:-1 tvg-id="TetsudoChannel.jp" tvg-name="Tetsudo Channel" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Tetsudo_Channel_logo.svg&w=200",Tetsudo Channel
 http://arva.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="IgoShogiChannel.jp" tvg-name="Shogi Channel" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Igo_Shogi_Channel_logo.svg&w=200",Shogi Channel
 http://arva.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="KBSWorldJapan.jp" tvg-name="KBS World" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=KBS_World_Logo.svg&w=200",KBS World
 http://arva.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="KNTV.jp" tvg-name="KNTV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=KNTV_logo.svg&w=200",KNTV
 http://arva.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="MnetJapan.jp" tvg-name="Mnet" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Mnet_logo.svg&w=200",Mnet
 http://arva.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="pigoo" tvg-name="Pigoo" tvg-logo="https://baseec-img-mng.akamaized.net/images/user/logo/dde8cbaba8f25c311920bd2e0e13afd6.png",Pigoo
 https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-id="v_paradise" tvg-name="V Paradise" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/292.png",V Paradise
@@ -223,6 +199,5 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="TBSNewsCS.jp" tvg-name="TBS News" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/860.png",TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-
 #EXTINF:-1 tvg-id="SORAWeatherChannel.jp" tvg-name="Weather News" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Weathernews_logo.svg&w=200",Weather News
 http://arva.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
