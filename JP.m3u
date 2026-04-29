@@ -49,7 +49,7 @@ http://arva.netgenx.site/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
 https://nl.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 tvg-id="bs11" tvg-name="BS11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/250px-BS11_logo.svg.png",BS11
 https://nl.utako.moe/BS11/index.m3u8
-#EXTINF:-1 tvg-id="BS12.jp" tvg-name="BS 12" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs12.png",BS 12
+#EXTINF:-1 tvg-id="BS12.jp" tvg-name="BS 12" tvg-logo="https://pbs.twimg.com/profile_images/1730394767136329728/eRNE6Rub_400x400.png",BS 12
 http://arva.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="nhk_bsp4k" tvg-name="NHK BS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
 https://nl.utako.moe/bsp4k/index.m3u8
